@@ -29,7 +29,9 @@ Pri kúpe auta som riešil predčasné splácanie úverov a sledoval rozdiely op
 - **pandas** – spracovanie dát
 - **matplotlib** – vizualizácie
 - **tabulate** – tlač súhrnných tabuliek v termináli
-- **xlsxwriter** alebo **openpyxl** – export do Excelu
+- **xlsxwriter** – export do Excelu
+- **openpyxl** – čítanie/zápis Excel súborov (xlsx)
+  
 
 ## Ako projekt používať
 
